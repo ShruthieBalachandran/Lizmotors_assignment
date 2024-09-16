@@ -1,6 +1,6 @@
 Here’s the rephrased version in pointers:
 
-# Lizmotors Assignment
+# Voice query pipeline project
 
 - This project involves creating an AI Voice Assistance Pipeline.
 - The pipeline processes a voice query command by:
