@@ -1,4 +1,3 @@
-Here’s the rephrased version in pointers:
 
 # Voice query pipeline project
 
